@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-playground">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/java-playground.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
